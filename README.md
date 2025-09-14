@@ -48,9 +48,9 @@ source .venv/bin/activate
 2. Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 # or
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip3 install pandas numpy scikit-learn matplotlib seaborn
 ```
 
 If you prefer, create a `requirements.txt` with:
