@@ -70,7 +70,7 @@ seaborn
 Save or confirm the main script is named `customer_segmentation.py` and run:
 
 ```bash
-python customer_segmentation.py
+python3 customer_segmentation.py
 ```
 
 What to expect:
